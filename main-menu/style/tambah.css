@@ -1,0 +1,22 @@
+body {
+	font-family: "Segoe UI";
+}
+
+a {
+	text-decoration: none;
+}
+
+form  {
+	margin-top: 20px;
+}
+
+input[type="text"] {
+	margin-left: 7px;
+	margin-bottom: 20px;
+	display: block;
+}
+
+input[type="email"] {
+	margin-left: 10px;
+	margin-bottom: 20px;
+}

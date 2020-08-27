@@ -1,0 +1,21 @@
+body {
+	font-family: "Segoe UI";
+}
+
+a {
+	text-decoration: none;
+}
+
+form {
+	margin: 10px 0;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 10px 20px;
+}
+
+td.no {
+	text-align: center;
+}
